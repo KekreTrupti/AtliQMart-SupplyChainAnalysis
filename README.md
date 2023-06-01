@@ -39,7 +39,7 @@ You are a data analyst who has been provided with sample data and has been brief
   <li>Using Microsoft Power BI effectively to create different types of visuals</li>
   <li>How the filters work across different visuals and how to edit interactions with visuals</li>
   <li>Got hands on about how to play with different settings in each of the visuals such as Drill Down, Sparkline</li>
-  <li>Creating Buttons to toggle betwwen  different versions of the same visual</li>
+  <li>Creating Buttons to toggle between  different versions of the same visual</li>
 </ol>
 
 ###### FMCG Domain - Supply Chain Knowledge:
