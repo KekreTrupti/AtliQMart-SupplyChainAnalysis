@@ -6,10 +6,10 @@
 
 ### Problem statement
 
-    AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodara. They want to expand to other metros/Tier 1 cities in the next 2 years.
-    AtliQ Mart is currently facing a problem where a few key customers did not extend their annual contracts due to service issues. It is speculated that some of the essential products were either not delivered on time or not delivered in full over a continued period, which could have resulted in bad customer service. Management wants to fix this issue before expanding to other cities and requested their supply chain analytics team to track the ’On time’ and ‘In Full’ delivery service level for all the customers daily basis so that they can respond swiftly to these issues.
+AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodara. They want to expand to other metros/Tier 1 cities in the next 2 years.
+AtliQ Mart is currently facing a problem where a few key customers did not extend their annual contracts due to service issues. It is speculated that some of the essential products were either not delivered on time or not delivered in full over a continued period, which could have resulted in bad customer service. Management wants to fix this issue before expanding to other cities and requested their supply chain analytics team to track the ’On time’ and ‘In Full’ delivery service level for all the customers daily basis so that they can respond swiftly to these issues.
 
-    The Supply Chain team decided to use a standard approach to measure the service level in which they will measure ‘On-time delivery (OT) %’, ‘In-full delivery (IF) %’, and OnTime in full (OTIF) %’ of the customer orders daily basis against the target service level set for each customer.
+The Supply Chain team decided to use a standard approach to measure the service level in which they will measure ‘On-time delivery (OT) %’, ‘In-full delivery (IF) %’, and OnTime in full (OTIF) %’ of the customer orders daily basis against the target service level set for each customer.
 
 ### Task List
 
@@ -20,14 +20,12 @@ You are a data analyst who has been provided with sample data and has been brief
 - Create relevant insights not provided in the metric list/stakeholder meeting.
 
 
-## Mockup dashboard 
-<p align="center"><img src="mock up dashboard_atliq grands.png"></p>
-
 ## Data Model created:
-<p align="center"><img src="datamodel.png"></p>
+<p align="center"><img src="data model.png"></p>
 
+<a href="https://www.canva.com/design/DAFkdi-5uAc/S2EHe8rhusc0lOdb9SiXTw/view?utm_content=DAFkdi-5uAc&utm_campaign=designshare&utm_medium=link&utm_source=viewer">blabhlbah </a>
 ## Final dashboard 
-<p align="center"><img src="atliqdashboard.png"></p>
+<p align="center"><img src="PBI Report page.png"></p>
 
 ##### Learning outcomes from this project:
 ###### Technical:
