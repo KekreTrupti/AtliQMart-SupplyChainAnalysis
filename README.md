@@ -23,7 +23,9 @@ You are a data analyst who has been provided with sample data and has been brief
 ## Data Model created:
 <p align="center"><img src="data model.png"></p>
 
-https://www.canva.com/design/DAFkdi-5uAc/view
+
+
+<a href="https://www.canva.com/design/DAFkdi-5uAc/view">This is my Power BI project on FMCG Domain - Supply Chain Analysis from Codebasics Resume Challenge </a>
 
 ## Final dashboard 
 <p align="center"><img src="PBI Report page.png"></p>
