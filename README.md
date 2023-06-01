@@ -31,6 +31,7 @@ You are a data analyst who has been provided with sample data and has been brief
   </iframe>
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFkdi-5uAc&#x2F;view?utm_content=DAFkdi-5uAc&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">AtliQ Mart</a> by Trupti Padgaonkar
+
 ## Final dashboard 
 <p align="center"><img src="PBI Report page.png"></p>
 
