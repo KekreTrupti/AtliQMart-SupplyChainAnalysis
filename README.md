@@ -23,12 +23,11 @@ You are a data analyst who has been provided with sample data and has been brief
 ## Data Model created:
 <p align="center"><img src="data model.png"></p>
 
-
-
-<a href="https://www.canva.com/design/DAFkdi-5uAc/view">This is my Power BI project on FMCG Domain - Supply Chain Analysis from Codebasics Resume Challenge </a>
-
 ## Final dashboard 
 <p align="center"><img src="PBI Report page.png"></p>
+
+## Link to my Canva Presentation
+<a href="https://www.canva.com/design/DAFkdi-5uAc/view">FMCG Domain - Supply Chain Analysis</a>
 
 ##### Learning outcomes from this project:
 ###### Technical:
@@ -39,23 +38,24 @@ You are a data analyst who has been provided with sample data and has been brief
   <li>Creating various measures essential for visual creation</li>
   <li>Using Microsoft Power BI effectively to create different types of visuals</li>
   <li>How the filters work across different visuals and how to edit interactions with visuals</li>
-  <li>Got hands on about how to play with different settings in each of the visuals</li>
-  <li>Creating Toggle Button betwwen 2 different forms of the same visual</li>
+  <li>Got hands on about how to play with different settings in each of the visuals such as Drill Down, Sparkline</li>
+  <li>Creating Buttons to toggle betwwen  different versions of the same visual</li>
 </ol>
 
-###### Hospitality Domain Knowledge:
+###### FMCG Domain - Supply Chain Knowledge:
 <ol>
-  <li>Through sources like Codebasics YouTube channel, prenohq.com, guidingmetrics.com gained knowledge about Hospitality Domain and how Data Analysis is used to boost profits in this domain</li>
-  <li>Learned about KPIs like RevPAR, ADR, DRR%, DSRN, Realisation%, ALOS, URN, BRN and how they are studied using data analysis</li>
+  <li>Through sources like Codebasics Resume Challenge support files gained knowledge about Supply Chain management and how Data Analysis is used to evaluate effectiveness of delivery process, manufacturing and logistics and potential bottlenecks in the supply chain.</li>
+  <li>Learned about KPIs like OT, IF, OTIF, LIFR, VOFR, COC time and how they are studied using data analysis</li>
   <li>Got an understanding of how these KPI insights are used to make informed decisions to improve business</li>
 </ol>
 
 ###### Insights from the dashboard:
 <ol>
-  <li>Looking at weekday and weekend comparion for key metrics, the RevPAR and ADR show no major difference. This shows that differential pricing strategy       is not being considered.</li>
-  <li> Booking by Platform analysis and DRR % Trend show that direct booking channels of the hotels are attracting comparatively low bookings</li>
-  <li>When compared by City, Mumbai is generating the highest revenue whereas Hydrabad is generating the lowest revenue.</li>
-  <li>Atliq Exotica is generating the highest revenue whereas Atliq Grand is generating the lowest revenue</li>
-  <li>Realisation % for both Tripster and Makeyourtrip Platforms are low compared to others</li>
+  <li>When compared vs Target, all the KPIs show negative trend over different time filters.</li>
+  <li> Lotus Mart, Acclaimed Stores are the top customers followed by Vijay Stores, Rel Fresh, Coolblue (by Total Order column sorted in descending order)</li>
+  <li>Average COC time for all customers is more especially for the top once it's high which indicates the slower response from company towards customer orders affecting other key metrics too.</li>
+  <li>Top 5 products : AM Milk 250, AM Milk 100, AM Milk 500, AM Curd 50, AM Curd 100</li>
+  <li>LIFR %  is low for all the products which indicates that company is unable to meet their customers' demands, fulfill orders quickly and maintain positive customer satisfaction rate</li>
+  <li>From Trend by City - in all three cities the metrics are way behind their respective target percentage. Here company can reflect on some points such as transportation accessibility, logistics service demand, economic development, availability and cost of the labor force, local policy and planning.</li>
 </ol> 
 
